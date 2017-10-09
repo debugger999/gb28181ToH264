@@ -1,0 +1,97 @@
+/**
+ * @mainpage
+ * Project Website: http://www.fsf.org/software/osip
+ *
+ * @verbinclude README
+ *
+ * @verbinclude HISTORY
+ *
+ * @verbinclude FEATURES
+ *
+ */
+
+/** 
+ * @defgroup libosip2 The GNU oSIP stack
+ * @brief libosip2 Version @OSIP_VERSION@
+ *
+ * @see http://www.fsf.org/software/osip
+ *
+ * @section what_is_it What is oSIP
+ *
+ * libosip2 implements the Session Initiation Protocol (SIP -rfc3261-)
+ * libosip2 is LGPL (COPYING). Please understand the licencing details
+ * before using it!
+ * 
+ * @section what_is_sip What is SIP
+ *
+ * SIP is an IP telephony protocol made by the IETF.
+ * It is an effort to create a simple (telephony is never
+ * simple) and powerfull protocol for next generation
+ * telephony systems.
+ *
+ * @section what_features SIP features
+ *
+ * SIP is not just about telephony. It's much more
+ * that what you expect from phones. SIP means mobility,
+ * video, textual call informations, file exchange,
+ * instant messaging, presence support and much more!
+ *
+ * @section what_freesoftware oSIP is free software
+ *
+ * As oSIP is LGPL, you still have the choice to implement
+ * propriatory application and link with oSIP. For the
+ * benefit of the community (and for your own benefit),
+ * please consider implementing your application in GPL.
+ *
+ * @section what_thanks Thanks
+ *
+ * Thanks to all the contributors and to all bug reporters.
+ * Enjoy osip!
+ *
+ */
+
+/**
+ * @defgroup osip2_parser The parser modules
+ * @brief Parser API in libosipparser2-@VERSION@.
+ *
+ * XXX
+ */
+
+/**
+ * @defgroup osip2_port The OS port modules
+ * @brief Thread/Semaphore/Mutex API in libosip2-@VERSION@.
+ *
+ * XXX
+ */
+
+/**
+ * @defgroup osip2_fsm State Machines
+ * @brief libosip2 APIs for transaction management
+ *
+ * XXX
+ */
+
+/** 
+ * @page osip2_readme README 
+ * @verbinclude README
+ */
+
+/** 
+ * @page osip2_install INSTALL 
+ * @verbinclude INSTALL
+ */
+
+/** 
+ * @page osip2_features FEATURES 
+ * @verbinclude FEATURES
+ */
+
+/** 
+ * @page osip2_license COPYING 
+ * @verbinclude COPYING
+ */
+
+/** 
+ * @page osip2_changelog ChangeLog 
+ * @verbinclude ChangeLog
+ */

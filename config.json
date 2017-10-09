@@ -1,0 +1,20 @@
+{
+    "gb28181": {
+        "_comment" : "海康平台sipId，端口号，ip地址",
+        "platform_id" : "32020200002000000001",
+        "platform_port" : 7100,
+        "platform_ip" : "192.168.0.100",
+
+        "_comment" : "本地平台sipId，端口号，ip地址",
+        "local_id" : "34010000002000000001",
+        "local_port" : 5060,
+        "local_ip" : "192.168.0.101"
+    },
+
+    "_comment" : "摄像头数目，sipId",
+    "camera_num" : 2,
+    "camera1_sip_id" : "18223002001310012922",
+    "camera1_recv_port" : 5500,
+    "camera2_sip_id" : "18223002001310012923",
+    "camera2_recv_port" : 5502
+}
