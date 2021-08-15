@@ -55,6 +55,8 @@ typedef struct program_stream_e_s {
     unsigned char		stuffing_length;
 } program_stream_e;
 
+#pragma pack()
+
 #endif //__MEDIA_PSTREAM__H__
 
 
