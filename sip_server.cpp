@@ -1,14 +1,4 @@
-/**
- * @file sip_server.cpp
- * @brief
- * @author yanchaodong (yanchaodong@outlook.com)
- * @version 1.0
- * @date 2021-08-15
- *
- * @copyright Copyright (c) 2021 
- *
- * @par 修改日志:
- */
+
 
 #include <stdio.h>
 #include <stdlib.h>
